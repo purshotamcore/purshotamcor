@@ -1,7 +1,7 @@
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hi 👋, I'm purshotam
+**full stack software Engineer || Kafka Admin from India**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **purshotamkumarsingh10@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** up skilling
 - 🌱 **I’m currently learning:** full stack
