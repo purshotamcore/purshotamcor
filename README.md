@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **purshotamkumarsingh10@gmail.com** For Collaboration/Proje
 - 😄 **Pronouns:** Purshotam kumar singh
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Purshotam Kumar Singh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/purshottam_kumar_singh?igsh=MXN0bWY3bjM2cXRt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:purshotamkumarsingh10@gmail.com) 
+[![Facebook](https://www.facebook.com/share/1DpoQ89dCu/)](https://facebook.com/Purshotam Kumar Singh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/purshottam_kumar_singh?igsh=MXN0bWY3bjM2cXRt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:purshotamkumarsingh10@gmail.com) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
