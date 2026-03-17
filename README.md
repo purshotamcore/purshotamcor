@@ -5,8 +5,6 @@ Email Me 👉 ✉️ **purshotamkumarsingh10@gmail.com** For Collaboration/Proje
 
 - 🔭 **I’m currently working on:** up skilling
 - 🌱 **I’m currently learning:** full stack
-- 👯 **I’m looking to collaborate on:** sql
-- 🤔 **I’m looking for help with:** java
 - 💬 **Ask me about:** Tech Support
 - 📫 **How to reach me:** purshotamkumarsingh10@gmail.com
 - 😄 **Pronouns:** Purshotam kumar singh
